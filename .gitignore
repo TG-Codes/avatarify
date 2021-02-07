@@ -3,3 +3,6 @@ vox-adv-cpk.pth.tar
 __pycache__
 
 *.log
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
